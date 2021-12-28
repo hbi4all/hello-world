@@ -1,2 +1,2 @@
 # hello-world
-Github tutorial - Initial project
+Github tutorial - Initial project 🚀
